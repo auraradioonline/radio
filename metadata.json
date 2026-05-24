@@ -1,0 +1,6 @@
+{
+  "name": "Radio Alfa",
+  "description": "Plataforma profesional de radio online de música cristiana y reflexiones espirituales",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
